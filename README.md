@@ -5,4 +5,4 @@
 
 # sChat
 
-Chat with CHAP auth
+Chat with CHAP authentication
