@@ -1,5 +1,4 @@
 # sChat
 
 Chat with CHAP auth
-
-![LOGO](/brand/logo.png?raw=true )
+<img width="322" alt="logo" src="https://raw.githubusercontent.com/Edix96/sChat/master/brand/logo.png">
