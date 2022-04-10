@@ -2,4 +2,6 @@
 
 Chat with CHAP auth
 
-![LOGO](/brand/logo.png?raw=true | width=100)
+<div style="width: 60%; height: 60%">
+![LOGO](/brand/logo.png?raw=true )
+</div>
